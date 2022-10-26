@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "HTML Full Course"
+    },
+    {
+        "id": 2,
+        "title": "CSS-3 Full Course"
+    },
+    {
+        "id": 3,
+        "title": "Tailwind css Full Course"
+    },
+    {
+        "id": 4,
+        "title": "Bootstrap Full Course"
+    },
+    {
+        "id": 5,
+        "title": "React JS Full Course"
+    },
+    {
+        "id": 6,
+        "title": "Javascript Full Course"
+    }
+]

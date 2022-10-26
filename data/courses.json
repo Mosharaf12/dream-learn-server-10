@@ -3,43 +3,50 @@
       "id": 1,
       "img": "https://cdn.educba.com/academy/wp-content/uploads/2018/09/Top-Uses-Of-HTML.jpg",
       "title": "HTML Full Course",
-      "about": "he HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.",
-      "course_title": "coding"
+      "about": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content he HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.",
+      "course_title": "coding",
+      "course_duration": "6 Month"
     },
     {
       "id": 2,
-      "img": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg",
+      "img": "https://res.cloudinary.com/cloudinary-marketing/images/w_1540,h_847/f_auto,q_auto/v1649718594/Web_Assets/blog/working_with_css_22218720ab/working_with_css_22218720ab-jpg?_i=AA",
       "title": "CSS-3 Full Course",
-      "about": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.",
-      "course_title": "coding"
+      "about": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.",
+      "course_title": "coding",
+      "course_duration": "6 Month"
     },
     {
-      "id": 3,
-      "img": "https://cdn.mansfeld.pl/wp-content/uploads/2020/04/kurs-bootstrap-5.png",
-      "title": "Bootstrap Full Course",
-      "about": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. ",
-      "course_title": "coding"
-    },
+        "id": 3,
+        "img": "https://assets.website-files.com/5e0f1144930a8bc8aace526c/609d5d0a4482a030a98678e5_6081a1047d19b822c0899c1d_DailyDotDevFrame2x.jpg",
+        "title": "Tailwind css Full Course",
+        "about": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap,",
+        "course_title": "coding"
+     },
     {
       "id": 4,
-      "img": "https://laravelnews.imgix.net/images/tailwindcss.png?ixlib=php-3.3.1",
-      "title": "Tailwind css Full Course",
-      "about": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap,",
-      "course_title": "coding"
+      "img": "https://blog.logrocket.com/wp-content/uploads/2020/10/Using-Bootstrap-with-React-tutorial-with-examples.png",
+      "title": "Bootstrap Full Course",
+      "about": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need, enable global options like gradients and shadow Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. ",
+      "course_title": "coding",
+      "course_duration": "6 Month"
     },
     {
-      "id": 5,
-      "img": "https://i.ytimg.com/vi/jS4aFq5-91M/maxresdefault.jpg",
-      "title": "Javascript Full Course",
-      "about": "JavaScript, often abbreviated to JS, is a coding language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. ",
-      "course_title": "coding"
-    },
+        "id": 5,
+        "img": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/01/pasted-image-0-2.png",
+        "title": "React JS Full Course",
+        "about": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.",
+        "course_title": "coding",
+        "course_duration": "6 Month"
+      },
+  
     {
       "id": 6,
-      "img": "https://i.ytimg.com/vi/JPT3bFIwJYA/maxresdefault.jpg",
-      "title": "React JS Full Course",
-      "about": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.",
-      "course_title": "coding"
+      "img": "https://di3xp7dfi3cq.cloudfront.net/media/magefan_blog/Free_Courses_to_learn_JavaScript.jpg",
+      "title": "Javascript Full Course",
+      "about": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web JavaScript, often abbreviated to JS, is a coding language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. ",
+      "course_title": "coding",
+      "course_duration": "6 Month"
     }
+   
   ]
 
