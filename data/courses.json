@@ -20,7 +20,8 @@
         "img": "https://assets.website-files.com/5e0f1144930a8bc8aace526c/609d5d0a4482a030a98678e5_6081a1047d19b822c0899c1d_DailyDotDevFrame2x.jpg",
         "title": "Tailwind css Full Course",
         "about": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap,",
-        "course_title": "coding"
+        "course_title": "coding",
+        "course_duration": "6 Month"
      },
     {
       "_id": 4,
